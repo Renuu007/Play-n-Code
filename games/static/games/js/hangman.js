@@ -224,7 +224,7 @@ window.onload = function () {
         ["This language is primarily used for client-side scripting."],
         ["This data structure is also known as a hash map."],
         ["This algorithm has a time complexity of O(n^2) in the worst-case scenario."],
-        [" This process involves identifying and correcting defects in software."],
+        ["This process involves identifying and correcting defects in software."],
         ["This process involves enhancing software performance and optimizing resource utilization."]
     ];
 
